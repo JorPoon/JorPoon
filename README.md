@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I am Jor!
+
+## 📫 How to reach me: ...
+
+Linkedin:
+
+email:
+
 
 <!--
 **JorPoon/JorPoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
