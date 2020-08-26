@@ -1,6 +1,6 @@
-### Hi there 👋, I am Jor!
+## Hi there 👋, I am Jor!
 
-## 📫 How to reach me: ...
+### 📫 How to reach me: ...
 
 Linkedin:
 
