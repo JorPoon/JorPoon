@@ -1,5 +1,7 @@
-# Hi there 👋, I am Jor! ![](/img/JMPlogo.png)
+![JMPLOGO](/img/JMPlogo.png)
 
+
+# Hi there 👋, I am Jor! 
 ## 📫 How to reach me: ...
 
 Linkedin: [Jor Ming Poon](https://www.linkedin.com/in/jor-ming-poon/)
