@@ -1,6 +1,6 @@
 # Hi there 👋, I am Jor!
 
-# 📫 How to reach me: ...
+## 📫 How to reach me: ...
 
 Linkedin: [Jor Ming Poon](https://www.linkedin.com/in/jor-ming-poon/)
 
