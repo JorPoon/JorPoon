@@ -1,4 +1,4 @@
-#Hi there 👋, I am Jor!
+# Hi there 👋, I am Jor!
 
 # 📫 How to reach me: ...
 
