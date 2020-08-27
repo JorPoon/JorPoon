@@ -4,7 +4,7 @@
 
 Linkedin: [Jor Ming Poon](https://www.linkedin.com/in/jor-ming-poon/)
 
-email: jormpoon@gmail.com
+💻 email: jormpoon@gmail.com
 
 
 <!--
