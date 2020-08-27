@@ -1,4 +1,4 @@
-# Hi there 👋, I am Jor! ![JMP EMOJI]()
+# Hi there 👋, I am Jor! ![](/img/JMPlogo.png)
 
 ## 📫 How to reach me: ...
 
