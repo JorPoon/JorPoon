@@ -1,4 +1,4 @@
-![JMPLOGO](/img/JMPlogo.png)
+<div align="center">![JMPLOGO](/img/JMPlogo.png)</div>
 
 
 # Hi there 👋, I am Jor! 
