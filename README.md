@@ -2,7 +2,8 @@
 
 ### 📫 How to reach me: ...
 
-Linkedin: linkedin.com/in/jor-ming-poon/
+Linkedin: [Jor Ming Poon][1]
+[1]: https://www.linkedin.com/in/jor-ming-poon/
 
 email: jormpoon@gmail.com
 
