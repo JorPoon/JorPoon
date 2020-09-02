@@ -5,11 +5,14 @@
 
 
 # Hi there 👋, I am Jor! 
+
 ## 📫 How to reach me: ...
 
 <i class="fab fa-linkedin"></i> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Jor Ming Poon](https://www.linkedin.com/in/jor-ming-poon/)
 
 💻 email: jormpoon@gmail.com
+
+## About Me
 
 
 <!--
