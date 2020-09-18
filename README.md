@@ -5,7 +5,7 @@
 
 
 # Hi there 👋, I am Jor! 
-### A FullStack Web Developer from New York City
+
 
 ## 📫 How to reach me ...
 
@@ -14,6 +14,8 @@
 💻 email: jormpoon@gmail.com
 
 ## About Me
+
+### A FullStack Web Developer from New York City
 
 
 <!--
