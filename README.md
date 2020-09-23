@@ -4,7 +4,7 @@
 
 
 
-# Hi there 👋, I am Jor! 
+# Hi there 👋, my name is Jor! 
 
 
 ## 📫 How to reach me ...
