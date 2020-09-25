@@ -19,6 +19,15 @@
 - A passion for quality user interface design and experience
 - A fan of video games and sports!
 
+## Technical Skills
+
+#### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Material UI
+
 
 <!--
 **JorPoon/JorPoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
