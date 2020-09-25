@@ -15,7 +15,9 @@
 
 ## About Me
 
-### A FullStack Web Developer from New York City
+- A FullStack Web Developer from New York City
+- A passion for quality user interface design and experience
+- A fan of video games and sports!
 
 
 <!--
