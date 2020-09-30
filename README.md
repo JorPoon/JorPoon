@@ -21,12 +21,14 @@
 
 ## Technical Skills
 
-#### Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Material UI
+| Front End       | Back End          |
+| ------------- |:-------------:| 
+| HTML     | Node.js | 
+| CSS     | Express.js     |  
+| JavaScript |   Python  |   
+| React.js |     
+
+
 
 
 <!--
