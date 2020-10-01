@@ -26,7 +26,9 @@
 | HTML     | Node.js | 
 | CSS     | Express.js     |  
 | JavaScript |   Python  |   
+| TypeScript |     
 | React.js |     
+| Next.js |     
 
 
 
