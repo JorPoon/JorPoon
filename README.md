@@ -15,8 +15,8 @@
 
 ## About Me
 
-- A FullStack Web Developer from New York City
-- A passion for quality user interface design and experience
+- A Full Stack Web Developer from New York City
+- A passion for quality user interface design and experience!
 - A fan of video games and sports!
 
 ## Technical Skills
@@ -30,6 +30,7 @@
 | React.js |     
 | Next.js |     
 
+## Professional Skills
 
 
 
