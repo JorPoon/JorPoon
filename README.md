@@ -6,6 +6,8 @@
 
 # Hi there 👋, my name is Jor! 
 
+## 🤓 Looking for :
+
 
 ## 📫 How to reach me ...
 
