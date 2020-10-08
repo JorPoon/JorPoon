@@ -13,7 +13,7 @@
 
 <i class="fab fa-linkedin"></i> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Check out my Linkedin profile!](https://www.linkedin.com/in/jor-ming-poon/)
 
-💻 email: jormpoon@gmail.com
+💻 Email: jormpoon@gmail.com
 
 ## About Me
 
