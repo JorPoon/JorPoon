@@ -29,7 +29,7 @@
 | HTML     | Node.js | 
 | CSS     | Express.js     |  
 | JavaScript |   Python  |   
-| TypeScript |     
+| TypeScript |     MySql |
 | React.js |     
 | Next.js |     
 
