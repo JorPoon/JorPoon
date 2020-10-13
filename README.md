@@ -35,6 +35,9 @@
 
 ## Professional Skills
 
+- Communication
+- Management
+- Troubleshooting
 
 
 <!--
