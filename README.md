@@ -6,7 +6,8 @@
 
 # Hi there 👋, my name is Jor! 
 
-## 🤓 Looking for :
+## 🤓 Looking for Full Time Positions:
+
 
 
 ## 📫 How to reach me ...
