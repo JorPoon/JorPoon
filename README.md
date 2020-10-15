@@ -8,6 +8,8 @@
 
 ## 🤓 Looking for Full Time Positions:
 
+- Front End
+
 
 
 ## 📫 How to reach me ...
