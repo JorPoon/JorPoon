@@ -9,6 +9,7 @@
 ## 🤓 Looking for Full Time Positions:
 
 - Front End
+- Back End
 
 
 
