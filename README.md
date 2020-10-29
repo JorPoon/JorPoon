@@ -12,7 +12,7 @@
 - Back End
 - Technical Support
 - Customer Support
-
+- Product Manangement
 
 ## 📫 How to reach me ...
 
