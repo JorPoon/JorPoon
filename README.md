@@ -34,10 +34,10 @@
 | HTML     | Node.js | 
 | CSS     | Express.js     |  
 | JavaScript |   Python  |   
-| TypeScript |     MySql |
+| TypeScript |     Sql |
 | React.js |     
 | Next.js |     
-
+| Material UI |
 ## Professional Skills
 
 - Communication
