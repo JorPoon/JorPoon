@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me ...
 
-<i class="fab fa-linkedin"></i> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Check out my Linkedin profile!](https://www.linkedin.com/in/jor-ming-poon/)
+<i class="fab fa-linkedin"></i> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Check Out My Linkedin Profile!](https://www.linkedin.com/in/jor-ming-poon/)
 
 💻 Email: jormpoon@gmail.com
 
