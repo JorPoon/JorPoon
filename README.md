@@ -38,6 +38,7 @@
 | React.js |     
 | Next.js |     
 | Material UI |
+| Chakra UI |
 ## Professional Skills
 
 - Communication
