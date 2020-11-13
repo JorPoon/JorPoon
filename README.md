@@ -12,8 +12,6 @@
 - Back End
 - Technical Support
 - Customer Support
-- Product Manangement
-- Development
 
 ## 📫 How to reach me ...
 
