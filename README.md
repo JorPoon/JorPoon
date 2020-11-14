@@ -33,11 +33,12 @@
 | HTML     | Node.js | 
 | CSS     | Express.js     |  
 | JavaScript |   Python  |   
-| TypeScript |     Sql |
+| TypeScript |     SQL |
 | React.js |     
 | Next.js |     
 | Material UI |
 | Chakra UI |
+
 ## Professional Skills
 
 - Communication
