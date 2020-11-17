@@ -10,6 +10,7 @@
 
 - Front End
 - Back End
+- Full Stack
 - Technical Support
 - Customer Support
 
