@@ -1,10 +1,10 @@
-<p align="center">
+<p align="center" >
   <img src="/img/JMPlogo.png">
 </p>
 
 
 
-# Hi there 👋, my name is Jor! 
+# Hi there 👋, I'm Jor! 
 
 ## 🤓 Looking for Full Time Positions:
 
