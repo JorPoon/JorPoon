@@ -45,6 +45,7 @@
 - Communication
 - Management
 - Troubleshooting
+- Organizing 
 
 
 <!--
