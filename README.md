@@ -25,8 +25,8 @@
 
 - A Full Stack Web Developer from New York City!
 - A passion for quality user interface design and experience!
-- A fan of video games and sports!
-- A learner that continues to stay updated on the newest technologies!
+- A fan of fitness, video games and sports!
+- A learner that continues to stay updated with the newest technologies!
 
 ## Technical Skills
 
