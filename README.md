@@ -27,6 +27,7 @@
 - A passion for quality user interface design and experience!
 - A fan of fitness, video games and sports!
 - A learner that continues to stay updated with the newest technologies!
+- A foodie! I love to explore the food culture around my city!
 
 ## Technical Skills
 
