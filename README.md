@@ -8,13 +8,14 @@
 
 ## 🤓 Looking for Full Time Positions:
 
+- Web Developer
 - Front End
 - Back End
 - Full Stack
 - Technical Support
 - Customer Support
 - Product Support
-- Web Developer
+
 
 ## 📫 How to reach me ...
 
