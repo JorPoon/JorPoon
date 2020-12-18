@@ -23,15 +23,15 @@
 
 💻 Email: jormpoon@gmail.com <<<<< Feel Free To Ask Me Anything!
 
-## About Me
+## About Me ...
 
 - A Full Stack Web Developer from New York City!
 - A passion for quality user interface design and experience!
-- A fan of fitness, video games and sports!
+- A fan of fitness, video games, and sports!
 - A learner that continues to stay updated with the newest technologies!
 - A foodie! I love to explore the food culture around my city!
 
-## Technical Skills
+## Technical Skills ...
 
 | Front End       | Back End          |
 | ------------- |:-------------:| 
@@ -44,7 +44,7 @@
 | Material UI |
 | Chakra UI |
 
-## Professional Skills
+## Professional Skills ...
 
 - Communication
 - Management
