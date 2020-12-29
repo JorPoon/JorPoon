@@ -49,9 +49,10 @@
 
 - Communication
 - Management
-- Troubleshooting
-- Organizing 
-- Zendesk
+- Troubleshoot
+- Organization 
+- Zendesk Software
+- Support
 
 
 <!--
