@@ -23,7 +23,7 @@
 
 💻 Email: jormpoon@gmail.com <<<<< Feel Free To Ask Me Anything!
 
-## About Me ...
+##  😎 About Me ...
 
 - A Full Stack Web Developer from New York City!
 - A passion for quality user interface design and experience!
@@ -32,7 +32,7 @@
 - A foodie! I love to explore the food culture around my city!
 - A person who values being a reliable teammate and being respectful to everyone around me!
 
-## Technical Skills ...
+## 💻 Technical Skills ...
 
 | Front End       | Back End          |
 | ------------- |:-------------:| 
