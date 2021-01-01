@@ -45,7 +45,7 @@
 | Material UI |
 | Chakra UI |
 
-## Professional Skills ...
+## 🥸 Professional Skills ...
 
 - Communication
 - Management
