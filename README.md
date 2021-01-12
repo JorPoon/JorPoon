@@ -4,7 +4,7 @@
 
 
 
-# Hi there 👋, I'm Jor! 
+# Hi There 👋, I'm Jor! 
 
 ## 🤓 Looking for Full Time Positions:
 
@@ -17,7 +17,7 @@
 - Product Support
 
 
-## 📫 How to reach me ...
+## 📫 How To Reach Me ...
 
 <i class="fab fa-linkedin"></i> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Check Out My Linkedin Profile!](https://www.linkedin.com/in/jor-ming-poon/)
 
@@ -54,7 +54,7 @@
 - Zendesk Software
 - Support
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m Currently Working On ...
 
 - Challenge Projects
 - Job Applications
