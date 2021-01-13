@@ -30,6 +30,7 @@
 - A fan of fitness, video games, and sports!
 - A learner that continues to stay updated with the newest technologies!
 - A foodie! I love to explore the food culture around my city!
+- A grower who trys to become a better person everyday!
 - A person who values being a reliable teammate and being respectful to everyone around me!
 
 ## 💻 Technical Skills ...
