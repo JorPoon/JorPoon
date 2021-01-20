@@ -6,7 +6,7 @@
 
 # Hi There 👋, I'm Jor! 
 
-## 🤓 Looking for Full Time Positions:
+## 🤓 Looking For Full Time Positions:
 
 - Web Developer
 - Front End
@@ -60,6 +60,7 @@
 - Challenge Projects
 - Job Applications
 - Skill Improvements
+- Let Me Know! I am open to ideas!!!
 <!--
 **JorPoon/JorPoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
