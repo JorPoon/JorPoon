@@ -51,7 +51,8 @@
 - Communication
 - Management
 - Troubleshoot
-- Organization 
+- Organization
+- Administrative
 - Zendesk Software
 - Support
 
