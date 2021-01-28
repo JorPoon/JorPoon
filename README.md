@@ -63,7 +63,7 @@ Feel Free To Ask Me Anything!
 - Challenge Projects
 - Job Applications
 - Technical & Professional Skill Improvements
-- Fitness
+- Health and Fitness
 - Let Me Know! I am open to ideas!!!
 <!--
 **JorPoon/JorPoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
