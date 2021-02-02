@@ -15,6 +15,7 @@
 - Technical Support
 - Customer Support
 - Product Support
+- Research and Development
 
 
 ## 📫 How To Reach Me ...
