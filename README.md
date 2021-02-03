@@ -58,6 +58,7 @@ Feel Free To Ask Me Anything!
 - Administrative
 - Zendesk Software
 - Support
+- Problem Solver
 
 ## 🔭 I’m Currently Working On ...
 
