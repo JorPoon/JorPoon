@@ -60,6 +60,7 @@ Feel Free To Ask Me Anything!
 - Zendesk Software
 - Support
 - Problem Solver
+- Teamwork
 
 ## 🔭 I’m Currently Working On ...
 
