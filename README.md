@@ -45,7 +45,7 @@ Feel Free To Reach Out!
 | CSS     | Express.js     |  
 | JavaScript |   Python  |   
 | TypeScript |     SQL |
-| React.js |     
+| React.js |     Postgres |
 | Next.js |     
 | Material UI |
 | Chakra UI |
