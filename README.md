@@ -25,7 +25,7 @@
 Feel Free To Reach Out!
 </br>
 💻 Email: jormpoon@gmail.com  
-Website: jormpoon.com(www.jormpoon.com)
+Website: www.jormpoon.com
 
 ##  😎 About Me ...
 
