@@ -68,7 +68,7 @@ Feel Free To Reach Out!
 ## 🔭 I’m Currently Working On ...
 
 - Challenge Projects
--  Behavioral And Technical Interviews
+- Behavioral And Technical Interviews
 - Job Applications
 - Technical & Professional Skill Improvements
 - Health and Fitness
