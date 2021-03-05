@@ -73,6 +73,12 @@ Feel Free To Reach Out!
 - Technical & Professional Skill Improvements
 - Health and Fitness
 - Let Me Know! I am open to ideas!!!
+
+## My Hobbies ...
+- Basketball
+- Video Games
+- Cooking & Eating
+- DIY Videos
 <!--
 **JorPoon/JorPoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
