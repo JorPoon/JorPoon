@@ -74,7 +74,7 @@ Feel Free To Reach Out!
 - Health and Fitness
 - Let Me Know! I am open to ideas!!!
 
-## My Hobbies ...
+## 🏀 My Hobbies ...
 - Basketball
 - Video Games
 - Cooking & Eating
