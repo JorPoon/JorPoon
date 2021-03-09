@@ -77,7 +77,8 @@ Feel Free To Reach Out!
 ## 🏀 My Hobbies ...
 - Basketball
 - Video Games
-- Cooking & Eating
+- Cooking
+- Eating
 - DIY Videos
 <!--
 **JorPoon/JorPoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
