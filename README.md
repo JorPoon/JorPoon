@@ -6,7 +6,7 @@
 
 # Hi There 👋, I'm Jor! 
 
-## 🤓 Looking For Full Time Positions:
+## 🤓 Need Help Looking For Full Time Positions:
 
 - Web Developer
 - Front End
