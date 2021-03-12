@@ -61,7 +61,7 @@ Feel Free To Reach Out!
 - Organization
 - Analyzation 
 - Administrative
-- Zendesk Software
+- Zendesk 
 - Support
 - Problem Solver
 - Teamwork
