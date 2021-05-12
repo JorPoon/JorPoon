@@ -6,7 +6,7 @@
 
 # Hi There 👋, I'm Jor! 
 
-## 🤓 Open To Full Time / Part Time or Contract Positions:
+## 🤓 Open To Part Time or Contract Positions:
 
 - Web Developer
 - Front End
