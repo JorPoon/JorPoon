@@ -69,8 +69,7 @@ Feel Free To Reach Out!
 ## 🔭 I’m Currently Working On ...
 
 - Challenge Projects
-- Behavioral And Technical Interviews
-- Job Applications
+- Udemy Courses
 - Technical & Professional Skill Improvements
 - Health and Fitness
 - Let Me Know! I am open to ideas!!!
