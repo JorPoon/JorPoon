@@ -62,7 +62,7 @@ Feel Free To Reach Out!
 - Analyzation 
 - Administrative
 - Zendesk 
-- Support
+- Technical / Customer Support
 - Problem Solver
 - Teamwork
 
