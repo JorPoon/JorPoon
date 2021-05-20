@@ -79,7 +79,6 @@ Feel Free To Reach Out!
 - Video Games
 - Cooking
 - Eating
-- DIY Videos
 <!--
 **JorPoon/JorPoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
