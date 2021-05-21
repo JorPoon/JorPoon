@@ -72,7 +72,6 @@ Feel Free To Reach Out!
 - Udemy Courses
 - Technical & Professional Skill Improvements
 - Health and Fitness
-- Let Me Know! I am open to ideas!!!
 
 ## 🏀 My Hobbies ...
 - Basketball
