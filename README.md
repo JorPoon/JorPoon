@@ -57,6 +57,7 @@ Feel Free To Reach Out!
 
 - Communication
 - Management
+- Analyst
 - Troubleshoot
 - Organization
 - Analyzation 
@@ -68,7 +69,6 @@ Feel Free To Reach Out!
 
 ## 🔭 I’m Currently Working On ...
 
-- Challenge Projects
 - Udemy Courses
 - Technical & Professional Skill Improvements
 - Health and Fitness
