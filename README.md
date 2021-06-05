@@ -70,6 +70,7 @@ Feel Free To Reach Out!
 ## 🔭 I’m Currently Working On ...
 
 - Udemy Courses
+- -Jira
 - Technical & Professional Skill Improvements
 - Health and Fitness
 
